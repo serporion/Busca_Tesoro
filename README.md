@@ -1,4 +1,4 @@
-# Proyecto Monstruo
+# Proyecto Busca el Tesoro
 
 Este proyecto está creado en Java y fue desarrollado inicialmente en NetBeans. Define una clase llamada `Busca_Tesoro`, con varios atributos públicos estáticos usados para el diseño de un tablero apoyado por una array bidimensional que recoge las coordenadas de una posición en el mismo.
 
