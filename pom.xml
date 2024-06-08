@@ -1,0 +1,19 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>Busca_Tesoro</groupId>
+  <artifactId>Busca_Tesoro</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <name>Busca_Tesoro</name>
+  <description>Juego "A buscar el tesoro". Se coloca una mina y se coloca un tesoro de forma aleatoria en un cuadrante de cuatro filas por cinco columnas. El usuario intentará averiguar dónde está el tesoro. Si hay una mina cerca después de un intento, se avisará de que está cerca.</description>
+  <build>
+    <plugins>
+      <plugin>
+        <artifactId>maven-compiler-plugin</artifactId>
+        <version>3.8.1</version>
+        <configuration>
+          <release>17</release>
+        </configuration>
+      </plugin>
+    </plugins>
+  </build>
+</project>
